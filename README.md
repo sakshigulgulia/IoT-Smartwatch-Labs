@@ -1,6 +1,6 @@
 # IoT-Smartwatch-Labs
 
-EECS 4764 IoT course lab work at Columbia University in collaboration with Rahul Shanbhag and Prathamesh Sahasrabudhe. 
+EECS 4764 - IoT course lab work at Columbia University in collaboration with Rahul Shanbhag and Prathamesh Sahasrabudhe. 
 In these labs we work with Feather Huzzah ESP8266 and create a smartwatch application platform. 
 
 Lab 1
@@ -36,3 +36,8 @@ Lab 4
 - Checkpoint 3: Feed your coordinates into an API to receive information about the weather in your area; display the results on your OLED display.
   
 - Checkpoint 4: Post a tweet from the ESP8266. An example tweet could be your location coordinates with the weather in that location. Also, open Twitter                   website or app with your PC or phone to show the tweets.
+
+Lab 5
+- Checkpoint 1: Make a simple application that enables voice recognition. Display the text on the screen after speaking to the microphone.
+
+- Checkpoint 2: Use the voice commands to turn off/on the display, display the time, and display any other spoken message on the OLED screen.
